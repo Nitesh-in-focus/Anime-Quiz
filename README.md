@@ -16,4 +16,4 @@ A simple and fun anime-themed quiz web app built with HTML, CSS, and JavaScript.
 - CSS3 (with CSS Variables for theme toggling)
 - JavaScript (Vanilla)
 
-## Website : 
+## Webpage : https://nitesh-in-focus.github.io/Anime-Quiz/ 
