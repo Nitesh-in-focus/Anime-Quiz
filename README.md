@@ -10,11 +10,6 @@ A simple and fun anime-themed quiz web app built with HTML, CSS, and JavaScript.
 - 🔄 Option to restart the quiz anytime
 - 💡 Responsive design for mobile and desktop
 
-## 🖼️ Preview
-
-![Quiz Preview](preview-image.png)  
-*(Add a screenshot or GIF of your quiz app here)*
-
 ## 🛠️ Technologies Used
 
 - HTML5
